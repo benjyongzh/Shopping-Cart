@@ -8,7 +8,8 @@ Githib Page: https://benjyongzh.github.io/Shopping-Cart/
 
 Learning Objectives:
 
-- Practise useState and useEffect.
-- Practise TDD with Jest on ReactJS.
+- Practise async in ReactJS.
+- Practise React Router.
+- Practise TDD with Jest on React Testing Library.
 
 The original project was last modified in February 2023, and was filtered from the Odin-Javascript repo into this separate repo.
